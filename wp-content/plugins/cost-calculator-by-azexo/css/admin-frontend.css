@@ -1,0 +1,71 @@
+textarea[name="data-calculation"] {
+    height: 300px !important;
+    width: 800px !important;
+}
+.azh-form-names {
+    max-width: 800px;
+}
+.azh-form-names .azh-form-name {
+    margin-right: 5px;
+}
+
+.azh-form-names .azh-form-name:hover {
+    background-color: whitesmoke;
+}
+
+.azh-logic {
+    min-width: 600px;
+}
+
+.azh-logic .azh-modes {
+    text-align: center;
+}
+
+.azh-logic .azh-modes .azh-mode {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.azh-logic .azh-modes .azh-mode:last-child {
+    margin-right: 0;
+}
+
+.azh-logic .azh-modes .azh-mode label {
+    display: inline-block !important;
+    cursor: pointer;
+}    
+
+.azh-logic .azh-add {
+    text-align: center;
+    line-height: 40px;
+    cursor: pointer;
+    font-size: 30px;
+    font-weight: 900;
+}
+
+.azh-logic .azh-add:hover {
+    background-color: whitesmoke;
+}
+
+.azh-logic .azh-add::before {
+    content: "+";
+    color: blueviolet;
+}
+
+.azh-logic .azh-remove {
+    text-align: center;
+    cursor: pointer;
+    font-size: 20px;
+    font-weight: 900;
+}
+.azh-logic .azh-remove:hover {
+    background-color: whitesmoke;
+}
+.azh-logic .azh-remove::before {
+    content: "-";
+    color: blueviolet;
+}
+
+.azh-logic .azh-table .azh-cell input, .azh-logic .azh-table .azh-cell select {
+    margin-bottom: 0 !important;
+}

@@ -1,0 +1,31 @@
+
+---Downloaded files---
+The import files for: Elastik were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = https://clubsrc.com
+Data file = /var/www/clubsrc/wp-content/themes/elastik/data/Elastik/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+

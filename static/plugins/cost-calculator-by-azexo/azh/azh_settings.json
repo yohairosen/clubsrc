@@ -1,0 +1,112 @@
+{
+    "patterns": "",
+    "custom-icons-classes": "",
+    "custom-icons-css": "",
+    "container-widths": "768px:750px\r\n992px:970px\r\n1200px:1170px",
+    "child-suggestions": {
+        "general/form-container.htm": [
+            "forms/steps.htm",
+            "forms/submit-confirmation.htm",
+            "forms/checkboxes-color-fan.htm",
+            "forms/checkboxes-images.htm",
+            "forms/checkboxes-icons.htm",
+            "forms/radio-color-fan.htm",
+            "forms/radio-images.htm",
+            "forms/radio-icons.htm",
+            "forms/click-trigger.htm",
+            "forms/geolocation.htm",            
+            "forms/paid-measure.htm",
+            "forms/number-i-d.htm",
+            "forms/sum-container.htm",
+            "forms/multiplication-container.htm",
+            "forms/total-amount.htm",
+            "forms/paypal-amount.htm"
+        ],
+        "general/form-without-submit.htm": [
+            "forms/file-field.htm",
+            "forms/checkboxes.htm",
+            "forms/input-field.htm",
+            "forms/number-range.htm",
+            "forms/hidden-field.htm",
+            "forms/dropdown-list.htm",
+            "forms/multi-select.htm",
+            "forms/radio-buttons.htm",
+            "forms/recaptcha.htm",
+            "forms/big-text-field.htm",
+            "forms/submit-confirmation.htm",
+            "forms/checkboxes-color-fan.htm",
+            "forms/checkboxes-images.htm",
+            "forms/checkboxes-icons.htm",
+            "forms/radio-color-fan.htm",
+            "forms/radio-images.htm",
+            "forms/radio-icons.htm",
+            "forms/click-trigger.htm",
+            "forms/geolocation.htm",
+            "forms/paid-measure.htm",
+            "forms/number-i-d.htm",
+            "forms/sum-container.htm",
+            "forms/multiplication-container.htm",
+            "forms/total-amount.htm",
+            "forms/paypal-amount.htm",
+            "forms/steps.htm",
+            "forms/submit-button.htm"
+        ]
+    },
+    "files_settings": {
+        "forms/submit-button.htm": {
+            "order": "-300"
+        },
+        "forms/paid-measure.htm": {
+            "order": "-204"
+        },
+        "forms/multiplication-container.htm": {
+            "order": "-203"
+        },
+        "forms/sum-container.htm": {
+            "order": "-202"
+        },
+        "forms/total-amount.htm": {
+            "order": "-201"
+        },
+        "forms/number-i-d.htm": {
+            "order": "-200"
+        },
+        "forms/geolocation.htm": {
+            "order": "-109"
+        },
+        "forms/radio-icons.htm": {
+            "order": "-108"
+        },
+        "forms/radio-images.htm": {
+            "order": "-107"
+        },
+        "forms/click-trigger.htm": {
+            "order": "-106"
+        },
+        "forms/radio-color-fan.htm": {
+            "order": "-105"
+        },
+        "forms/checkboxes-icons.htm": {
+            "order": "-104"
+        },
+        "forms/checkboxes-images.htm": {
+            "order": "-103"
+        },
+        "forms/submit-confirmation.htm": {
+            "order": "-102"
+        },
+        "forms/checkboxes-color-fan.htm": {
+            "order": "-101"
+        },
+        "general/form-without-submit.htm": {
+            "wrapper_classes": ["az-bottom-left-controls"],
+            "order": "18"
+        },
+        "forms/steps.htm": {
+            "order": "-60"
+        },
+        "forms/paypal-amount.htm": {
+            "order": "-50"
+        }
+    }
+}

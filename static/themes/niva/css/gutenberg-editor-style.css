@@ -1,0 +1,286 @@
+/*------------------------------------------------------------------
+[Gutenberg] - [Table of contents]
+
+- Gutenberg backend Custom Styling
+/*------------------------------------------------------------------*/
+
+.wp-block {
+    max-width: 1170px;
+}
+/*Custom font styling*/
+/*general*/
+.editor-block-list__layout .editor-block-list__block {
+    color: #333333;
+    font-family: "Poppins",serif;
+}
+.editor-post-title__block .editor-post-title__input {
+    font-family: 'Poppins';
+}
+.editor-block-list__layout .wp-block-heading h1,
+.editor-block-list__layout .wp-block-heading h2,
+.editor-block-list__layout .wp-block-heading h3,
+.editor-block-list__layout .wp-block-heading h4,
+.editor-block-list__layout .wp-block-heading h5,
+.editor-block-list__layout .wp-block-heading h6 {
+    font-family: 'Poppins';
+}
+.editor-block-list__layout .wp-block-heading h1 {
+        font-size: 36px !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;
+}
+.editor-block-list__layout .wp-block-heading h2 {
+    font-size: 30px !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;
+}
+.editor-block-list__layout .wp-block-heading h3 {
+    font-size: 24px !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;  
+}
+.editor-block-list__layout .wp-block-heading h4 {
+    font-size: 18px !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;
+}
+.editor-block-list__layout .wp-block-heading h5 {
+    font-size: 14px !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;  
+}
+.editor-block-list__layout .wp-block-heading h6 {
+    font-size: 12px !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;  
+}
+.editor-block-list__layout .wp-block-heading h1 strong,
+.editor-block-list__layout .wp-block-heading h2 strong,
+.editor-block-list__layout .wp-block-heading h3 strong,
+.editor-block-list__layout .wp-block-heading h4 strong,
+.editor-block-list__layout .wp-block-heading h5 strong,
+.editor-block-list__layout .wp-block-heading h6 strong{
+    font-weight: 700 !important;
+}
+.edit-post-visual-editor p.wp-block-subhead {
+    color: #828282;
+}
+.editor-styles-wrapper .editor-block-list__layout .mce-content-body,
+.editor-styles-wrapper .editor-block-list__layout  p  {
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+}
+.editor-styles-wrapper .editor-block-list__layout .wp-block-cover p {
+	color: #fff;
+	font-size: 30px;
+	line-height: 1.25;
+}
+.editor-block-list__layout  pre {
+	display: block;
+	padding: 9.5px;
+	margin: 0 0 10px;
+	font-size: 13px;
+	line-height: 1.42857143;
+	word-break: break-all;
+	word-wrap: break-word;
+	color: #333;
+	background-color: #f9f9f9;
+	border: 1px solid #e6e6e6;
+}
+.editor-block-list__layout .editor-block-list__block-edit ul li a {
+    color: #6022ea;
+    font-size: 16px;
+    text-decoration: none;
+}
+.editor-block-list__layout  input.components-placeholder__input[type="url"]{
+	color: #333;
+	font-size: 14px;
+}
+
+/*button*/
+.editor-block-list__layout .wp-block-button__link {
+    background: #6022ea;
+    border-radius: 0;
+    color: #ffffff;
+    font-size: 15px;
+    padding: 20px 30px;
+    font-weight: 400;
+    line-height: 1;
+}
+.editor-block-list__layout button.components-button.is-button.is-default.is-large {
+    font-size: 14px;
+    margin-top: 2px;
+}
+
+/* table */
+.editor-block-list__layout .wp-block-table{
+	text-align: center;
+	background-color: transparent;
+}
+.editor-block-list__layout .wp-block-table td, 
+.editor-block-list__layout .wp-block-table th {
+    padding: 10px;
+    border: 1px solid #e6e6e6;
+}
+.editor-block-list__layout .editor-rich-text__tinymce li {
+    color: #000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    opacity: 1;
+    visibility: visible;
+}
+
+
+/*blockquote*/
+.editor-block-list__layout  .wp-block-quote.is-large p, 
+.editor-block-list__layout  .wp-block-quote.is-style-large p,
+.editor-block-list__layout .editor-block-list__block-edit  .blockquote {
+    font-size: 24px;
+    font-style: italic;
+    line-height: 1.6;
+}
+.editor-block-list__layout .editor-block-list__block-edit .wp-block-code .editor-plain-text {
+	color: #3c424f;
+}
+
+.wp-block-image figcaption {
+    color: #000;
+    font-size: 14px !important;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    line-height: 20px !important;
+}
+
+.editor-block-list__layout blockquote.wp-block-quote {
+    color: #fff;
+    font-size: 14px;
+    font-weight: 600;
+    margin: 40px 0 !important;
+    padding: 30px 30px 30px 90px !important;
+    position: relative;
+    border-radius: 0px;
+    border: 0 !important;
+    font-style: normal;
+    background: #6022ea;
+}
+.editor-block-list__layout blockquote.wp-block-quote h1 {
+
+}
+.editor-block-list__layout blockquote.wp-block-quote::before {
+    content: '\f10d';
+    font-family: "FontAwesome";
+    color: #fff;
+    font-size: 28px;
+    position: absolute;
+    left: 35px;
+    top: 48px;
+    font-style: normal;
+    background: transparent !important;
+}
+.editor-block-list__layout blockquote.wp-block-quote p {
+    color: #fff !important;
+    margin-bottom: 0 !important;
+    font-size: 14px !important;
+}
+.editor-block-list__layout blockquote.wp-block-quote h1 {
+        font-size: 36px !important;
+        color: #fff !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;
+}
+.editor-block-list__layout blockquote.wp-block-quote h2 {
+    font-size: 30px !important;
+    color: #fff !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;
+}
+.editor-block-list__layout blockquote.wp-block-quote h3 {
+    font-size: 24px !important;
+    color: #fff !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;  
+}
+.editor-block-list__layout blockquote.wp-block-quote h4 {
+    font-size: 18px !important;
+    color: #fff !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;
+}
+.editor-block-list__layout blockquote.wp-block-quote h5 {
+    font-size: 14px !important;
+    color: #fff !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;  
+}
+.editor-block-list__layout blockquote.wp-block-quote h6 {
+    font-size: 12px !important;
+    color: #fff !important;
+    line-height: 1.25 !important;
+    font-weight: 600 !important;  
+}
+.editor-block-list__layout blockquote.wp-block-quote h1 strong,
+.editor-block-list__layout blockquote.wp-block-quote h2 strong,
+.editor-block-list__layout blockquote.wp-block-quote h3 strong,
+.editor-block-list__layout blockquote.wp-block-quote h4 strong,
+.editor-block-list__layout blockquote.wp-block-quote h5 strong,
+.editor-block-list__layout blockquote.wp-block-quote h6 strong{
+    font-weight: 700 !important;
+}
+.editor-block-list__layout footer.blockquote-footer {
+    color: #fff;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.editor-block-list__layout footer.blockquote-footer::before {
+    content: '\2014 \00A0';
+    padding-right: 5px;
+}
+
+.wp-block-pullquote:not(.is-style-solid-color) {
+    background: 0 0;
+}
+.wp-block-pullquote {
+    border-top: 4px solid #000;
+    border-bottom: 4px solid #000;
+    color: #000;
+    margin-bottom: 30px !important;
+}
+.wp-block-pullquote {
+    padding: 3em 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+.wp-block-pullquote blockquote p, .wp-block-pullquote blockquote cite {
+    color: #000 !important;
+}
+.wp-block-pullquote cite, .wp-block-pullquote footer, .wp-block-pullquote__citation {
+    color: #000;
+    text-transform: uppercase;
+    font-size: 13px !important;
+    font-style: normal;
+    font-weight: normal;
+}
+.wp-block-pullquote blockquote {
+    background: transparent;
+    padding: 0 !important;
+    text-align: center;
+}
+.wp-block-pullquote blockquote:before {
+    display: none;
+}
+.wp-block-pullquote blockquote p {
+    font-size: 28px !important;
+    line-height: 1.6 !important;
+        margin-bottom: 20px !important;
+}
+.editor-styles-wrapper .editor-block-list__layout p a {
+    text-decoration: none;
+}
+.wp-block-gallery .blocks-gallery-item figcaption {
+    font-size: 13px !important;
+    line-height: 30px !important;
+    font-weight: 400 !important;
+}

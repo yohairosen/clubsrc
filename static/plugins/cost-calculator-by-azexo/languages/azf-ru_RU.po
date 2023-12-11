@@ -1,0 +1,1422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Cost Calculator by AZEXO\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-01-25 13:58+0000\n"
+"PO-Revision-Date: 2018-01-25 13:58+0000\n"
+"Last-Translator: admin <admin@admin.admin>\n"
+"Language-Team: Russian\n"
+"Language: ru-RU\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10 >= 2 && "
+"n%10<=4 &&(n%100<10||n%100 >= 20)? 1 : 2)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco - https://localise.biz/"
+
+#: azh_forms.php:187
+msgid "AFGHANISTAN"
+msgstr ""
+
+#: azh_forms.php:188
+msgid "ALBANIA"
+msgstr ""
+
+#: azh_forms.php:189
+msgid "ALGERIA"
+msgstr ""
+
+#: azh_forms.php:190
+msgid "AMERICAN SAMOA"
+msgstr ""
+
+#: azh_forms.php:191
+msgid "ANDORRA"
+msgstr ""
+
+#: azh_forms.php:192
+msgid "ANGOLA"
+msgstr ""
+
+#: azh_forms.php:193
+msgid "ANTIGUA AND BARBUDA"
+msgstr ""
+
+#: azh_forms.php:194
+msgid "ARGENTINA"
+msgstr ""
+
+#: azh_forms.php:195
+msgid "ARMENIA"
+msgstr ""
+
+#: azh_forms.php:196
+msgid "AUSTRALIA"
+msgstr ""
+
+#: azh_forms.php:197
+msgid "AUSTRIA"
+msgstr ""
+
+#: azh_forms.php:198
+msgid "AZERBAIJAN"
+msgstr ""
+
+#: azh_forms.php:199
+msgid "BAHAMAS"
+msgstr ""
+
+#: azh_forms.php:200
+msgid "BAHRAIN"
+msgstr ""
+
+#: azh_forms.php:201
+msgid "BANGLADESH"
+msgstr ""
+
+#: azh_forms.php:202
+msgid "BARBADOS"
+msgstr ""
+
+#: azh_forms.php:203
+msgid "BELARUS"
+msgstr ""
+
+#: azh_forms.php:204
+msgid "BELGIUM"
+msgstr ""
+
+#: azh_forms.php:205
+msgid "BELIZE"
+msgstr ""
+
+#: azh_forms.php:206
+msgid "BENIN"
+msgstr ""
+
+#: azh_forms.php:207
+msgid "BERMUDA"
+msgstr ""
+
+#: azh_forms.php:208
+msgid "BHUTAN"
+msgstr ""
+
+#: azh_forms.php:209
+msgid "BOLIVIA"
+msgstr ""
+
+#: azh_forms.php:210
+msgid "BOSNIA AND HERZEGOVINA"
+msgstr ""
+
+#: azh_forms.php:211
+msgid "BOTSWANA"
+msgstr ""
+
+#: azh_forms.php:212
+msgid "BRAZIL"
+msgstr ""
+
+#: azh_forms.php:213
+msgid "BRUNEI"
+msgstr ""
+
+#: azh_forms.php:214
+msgid "BULGARIA"
+msgstr ""
+
+#: azh_forms.php:215
+msgid "BURKINA FASO"
+msgstr ""
+
+#: azh_forms.php:216
+msgid "BURUNDI"
+msgstr ""
+
+#: azh_forms.php:217
+msgid "CAMBODIA"
+msgstr ""
+
+#: azh_forms.php:218
+msgid "CAMEROON"
+msgstr ""
+
+#: azh_forms.php:219
+msgid "CANADA"
+msgstr ""
+
+#: azh_forms.php:220
+msgid "CAPE VERDE"
+msgstr ""
+
+#: azh_forms.php:221
+msgid "CAYMAN ISLANDS"
+msgstr ""
+
+#: azh_forms.php:222
+msgid "CENTRAL AFRICAN REPUBLIC"
+msgstr ""
+
+#: azh_forms.php:223
+msgid "CHAD"
+msgstr ""
+
+#: azh_forms.php:224
+msgid "CHILE"
+msgstr ""
+
+#: azh_forms.php:225
+msgid "CHINA"
+msgstr ""
+
+#: azh_forms.php:226
+msgid "COLOMBIA"
+msgstr ""
+
+#: azh_forms.php:227
+msgid "COMOROS"
+msgstr ""
+
+#: azh_forms.php:228
+msgid "CONGO, DEMOCRATIC REPUBLIC OF THE"
+msgstr ""
+
+#: azh_forms.php:229
+msgid "CONGO, REPUBLIC OF THE"
+msgstr ""
+
+#: azh_forms.php:230
+msgid "COSTA RICA"
+msgstr ""
+
+#: azh_forms.php:231
+msgid "CÔTE D'IVOIRE"
+msgstr ""
+
+#: azh_forms.php:232
+msgid "CROATIA"
+msgstr ""
+
+#: azh_forms.php:233
+msgid "CUBA"
+msgstr ""
+
+#: azh_forms.php:234
+msgid "CURAÇAO"
+msgstr ""
+
+#: azh_forms.php:235
+msgid "CYPRUS"
+msgstr ""
+
+#: azh_forms.php:236
+msgid "CZECH REPUBLIC"
+msgstr ""
+
+#: azh_forms.php:237
+msgid "DENMARK"
+msgstr ""
+
+#: azh_forms.php:238
+msgid "DJIBOUTI"
+msgstr ""
+
+#: azh_forms.php:239
+msgid "DOMINICA"
+msgstr ""
+
+#: azh_forms.php:240
+msgid "DOMINICAN REPUBLIC"
+msgstr ""
+
+#: azh_forms.php:241
+msgid "EAST TIMOR"
+msgstr ""
+
+#: azh_forms.php:242
+msgid "ECUADOR"
+msgstr ""
+
+#: azh_forms.php:243
+msgid "EGYPT"
+msgstr ""
+
+#: azh_forms.php:244
+msgid "EL SALVADOR"
+msgstr ""
+
+#: azh_forms.php:245
+msgid "EQUATORIAL GUINEA"
+msgstr ""
+
+#: azh_forms.php:246
+msgid "ERITREA"
+msgstr ""
+
+#: azh_forms.php:247
+msgid "ESTONIA"
+msgstr ""
+
+#: azh_forms.php:248
+msgid "ETHIOPIA"
+msgstr ""
+
+#: azh_forms.php:249
+msgid "FAROE ISLANDS"
+msgstr ""
+
+#: azh_forms.php:250
+msgid "FIJI"
+msgstr ""
+
+#: azh_forms.php:251
+msgid "FINLAND"
+msgstr ""
+
+#: azh_forms.php:252
+msgid "FRANCE"
+msgstr ""
+
+#: azh_forms.php:253
+msgid "FRENCH POLYNESIA"
+msgstr ""
+
+#: azh_forms.php:254
+msgid "GABON"
+msgstr ""
+
+#: azh_forms.php:255
+msgid "GAMBIA"
+msgstr ""
+
+#: azh_forms.php:256
+msgctxt "Country"
+msgid "GEORGIA"
+msgstr ""
+
+#: azh_forms.php:257
+msgid "GERMANY"
+msgstr ""
+
+#: azh_forms.php:258
+msgid "GHANA"
+msgstr ""
+
+#: azh_forms.php:259
+msgid "GREECE"
+msgstr ""
+
+#: azh_forms.php:260
+msgid "GREENLAND"
+msgstr ""
+
+#: azh_forms.php:261
+msgid "GRENADA"
+msgstr ""
+
+#: azh_forms.php:262
+msgid "GUAM"
+msgstr ""
+
+#: azh_forms.php:263
+msgid "GUATEMALA"
+msgstr ""
+
+#: azh_forms.php:264
+msgid "GUINEA"
+msgstr ""
+
+#: azh_forms.php:265
+msgid "GUINEA-BISSAU"
+msgstr ""
+
+#: azh_forms.php:266
+msgid "GUYANA"
+msgstr ""
+
+#: azh_forms.php:267
+msgid "HAITI"
+msgstr ""
+
+#: azh_forms.php:268
+msgid "HONDURAS"
+msgstr ""
+
+#: azh_forms.php:269
+msgid "HONG KONG"
+msgstr ""
+
+#: azh_forms.php:270
+msgid "HUNGARY"
+msgstr ""
+
+#: azh_forms.php:271
+msgid "ICELAND"
+msgstr ""
+
+#: azh_forms.php:272
+msgid "INDIA"
+msgstr ""
+
+#: azh_forms.php:273
+msgid "INDONESIA"
+msgstr ""
+
+#: azh_forms.php:274
+msgid "IRAN"
+msgstr ""
+
+#: azh_forms.php:275
+msgid "IRAQ"
+msgstr ""
+
+#: azh_forms.php:276
+msgid "IRELAND"
+msgstr ""
+
+#: azh_forms.php:277
+msgid "ISRAEL"
+msgstr ""
+
+#: azh_forms.php:278
+msgid "ITALY"
+msgstr ""
+
+#: azh_forms.php:279
+msgid "JAMAICA"
+msgstr ""
+
+#: azh_forms.php:280
+msgid "JAPAN"
+msgstr ""
+
+#: azh_forms.php:281
+msgid "JORDAN"
+msgstr ""
+
+#: azh_forms.php:282
+msgid "KAZAKHSTAN"
+msgstr ""
+
+#: azh_forms.php:283
+msgid "KENYA"
+msgstr ""
+
+#: azh_forms.php:284
+msgid "KIRIBATI"
+msgstr ""
+
+#: azh_forms.php:285
+msgid "NORTH KOREA"
+msgstr ""
+
+#: azh_forms.php:286
+msgid "SOUTH KOREA"
+msgstr ""
+
+#: azh_forms.php:287
+msgid "KOSOVO"
+msgstr ""
+
+#: azh_forms.php:288
+msgid "KUWAIT"
+msgstr ""
+
+#: azh_forms.php:289
+msgid "KYRGYZSTAN"
+msgstr ""
+
+#: azh_forms.php:290
+msgid "LAOS"
+msgstr ""
+
+#: azh_forms.php:291
+msgid "LATVIA"
+msgstr ""
+
+#: azh_forms.php:292
+msgid "LEBANON"
+msgstr ""
+
+#: azh_forms.php:293
+msgid "LESOTHO"
+msgstr ""
+
+#: azh_forms.php:294
+msgid "LIBERIA"
+msgstr ""
+
+#: azh_forms.php:295
+msgid "LIBYA"
+msgstr ""
+
+#: azh_forms.php:296
+msgid "LIECHTENSTEIN"
+msgstr ""
+
+#: azh_forms.php:297
+msgid "LITHUANIA"
+msgstr ""
+
+#: azh_forms.php:298
+msgid "LUXEMBOURG"
+msgstr ""
+
+#: azh_forms.php:299
+msgid "MACEDONIA"
+msgstr ""
+
+#: azh_forms.php:300
+msgid "MADAGASCAR"
+msgstr ""
+
+#: azh_forms.php:301
+msgid "MALAWI"
+msgstr ""
+
+#: azh_forms.php:302
+msgid "MALAYSIA"
+msgstr ""
+
+#: azh_forms.php:303
+msgid "MALDIVES"
+msgstr ""
+
+#: azh_forms.php:304
+msgid "MALI"
+msgstr ""
+
+#: azh_forms.php:305
+msgid "MALTA"
+msgstr ""
+
+#: azh_forms.php:306
+msgid "MARSHALL ISLANDS"
+msgstr ""
+
+#: azh_forms.php:307
+msgid "MAURITANIA"
+msgstr ""
+
+#: azh_forms.php:308
+msgid "MAURITIUS"
+msgstr ""
+
+#: azh_forms.php:309
+msgid "MEXICO"
+msgstr ""
+
+#: azh_forms.php:310
+msgid "MICRONESIA"
+msgstr ""
+
+#: azh_forms.php:311
+msgid "MOLDOVA"
+msgstr ""
+
+#: azh_forms.php:312
+msgid "MONACO"
+msgstr ""
+
+#: azh_forms.php:313
+msgid "MONGOLIA"
+msgstr ""
+
+#: azh_forms.php:314
+msgid "MONTENEGRO"
+msgstr ""
+
+#: azh_forms.php:315
+msgid "MOROCCO"
+msgstr ""
+
+#: azh_forms.php:316
+msgid "MOZAMBIQUE"
+msgstr ""
+
+#: azh_forms.php:317
+msgid "MYANMAR"
+msgstr ""
+
+#: azh_forms.php:318
+msgid "NAMIBIA"
+msgstr ""
+
+#: azh_forms.php:319
+msgid "NAURU"
+msgstr ""
+
+#: azh_forms.php:320
+msgid "NEPAL"
+msgstr ""
+
+#: azh_forms.php:321
+msgid "NETHERLANDS"
+msgstr ""
+
+#: azh_forms.php:322
+msgid "NEW ZEALAND"
+msgstr ""
+
+#: azh_forms.php:323
+msgid "NICARAGUA"
+msgstr ""
+
+#: azh_forms.php:324
+msgid "NIGER"
+msgstr ""
+
+#: azh_forms.php:325
+msgid "NIGERIA"
+msgstr ""
+
+#: azh_forms.php:326
+msgid "NORTHERN MARIANA ISLANDS"
+msgstr ""
+
+#: azh_forms.php:327
+msgid "NORWAY"
+msgstr ""
+
+#: azh_forms.php:328
+msgid "OMAN"
+msgstr ""
+
+#: azh_forms.php:329
+msgid "PAKISTAN"
+msgstr ""
+
+#: azh_forms.php:330
+msgid "PALAU"
+msgstr ""
+
+#: azh_forms.php:331
+msgid "PALESTINE, STATE OF"
+msgstr ""
+
+#: azh_forms.php:332
+msgid "PANAMA"
+msgstr ""
+
+#: azh_forms.php:333
+msgid "PAPUA NEW GUINEA"
+msgstr ""
+
+#: azh_forms.php:334
+msgid "PARAGUAY"
+msgstr ""
+
+#: azh_forms.php:335
+msgid "PERU"
+msgstr ""
+
+#: azh_forms.php:336
+msgid "PHILIPPINES"
+msgstr ""
+
+#: azh_forms.php:337
+msgid "POLAND"
+msgstr ""
+
+#: azh_forms.php:338
+msgid "PORTUGAL"
+msgstr ""
+
+#: azh_forms.php:339
+msgid "PUERTO RICO"
+msgstr ""
+
+#: azh_forms.php:340
+msgid "QATAR"
+msgstr ""
+
+#: azh_forms.php:341
+msgid "ROMANIA"
+msgstr ""
+
+#: azh_forms.php:342
+msgid "RUSSIA"
+msgstr ""
+
+#: azh_forms.php:343
+msgid "RWANDA"
+msgstr ""
+
+#: azh_forms.php:344
+msgid "SAINT KITTS AND NEVIS"
+msgstr ""
+
+#: azh_forms.php:345
+msgid "SAINT LUCIA"
+msgstr ""
+
+#: azh_forms.php:346
+msgid "SAINT VINCENT AND THE GRENADINES"
+msgstr ""
+
+#: azh_forms.php:347
+msgid "SAMOA"
+msgstr ""
+
+#: azh_forms.php:348
+msgid "SAN MARINO"
+msgstr ""
+
+#: azh_forms.php:349
+msgid "SAO TOME AND PRINCIPE"
+msgstr ""
+
+#: azh_forms.php:350
+msgid "SAUDI ARABIA"
+msgstr ""
+
+#: azh_forms.php:351
+msgid "SENEGAL"
+msgstr ""
+
+#: azh_forms.php:352
+msgid "SERBIA"
+msgstr ""
+
+#: azh_forms.php:353
+msgid "SEYCHELLES"
+msgstr ""
+
+#: azh_forms.php:354
+msgid "SIERRA LEONE"
+msgstr ""
+
+#: azh_forms.php:355
+msgid "SINGAPORE"
+msgstr ""
+
+#: azh_forms.php:356
+msgid "SINT MAARTEN"
+msgstr ""
+
+#: azh_forms.php:357
+msgid "SLOVAKIA"
+msgstr ""
+
+#: azh_forms.php:358
+msgid "SLOVENIA"
+msgstr ""
+
+#: azh_forms.php:359
+msgid "SOLOMON ISLANDS"
+msgstr ""
+
+#: azh_forms.php:360
+msgid "SOMALIA"
+msgstr ""
+
+#: azh_forms.php:361
+msgid "SOUTH AFRICA"
+msgstr ""
+
+#: azh_forms.php:362
+msgid "SPAIN"
+msgstr ""
+
+#: azh_forms.php:363
+msgid "SRI LANKA"
+msgstr ""
+
+#: azh_forms.php:364
+msgid "SUDAN"
+msgstr ""
+
+#: azh_forms.php:365
+msgid "SUDAN, SOUTH"
+msgstr ""
+
+#: azh_forms.php:366
+msgid "SURINAME"
+msgstr ""
+
+#: azh_forms.php:367
+msgid "SWAZILAND"
+msgstr ""
+
+#: azh_forms.php:368
+msgid "SWEDEN"
+msgstr ""
+
+#: azh_forms.php:369
+msgid "SWITZERLAND"
+msgstr ""
+
+#: azh_forms.php:370
+msgid "SYRIA"
+msgstr ""
+
+#: azh_forms.php:371
+msgid "TAIWAN"
+msgstr ""
+
+#: azh_forms.php:372
+msgid "TAJIKISTAN"
+msgstr ""
+
+#: azh_forms.php:373
+msgid "TANZANIA"
+msgstr ""
+
+#: azh_forms.php:374
+msgid "THAILAND"
+msgstr ""
+
+#: azh_forms.php:375
+msgid "TOGO"
+msgstr ""
+
+#: azh_forms.php:376
+msgid "TONGA"
+msgstr ""
+
+#: azh_forms.php:377
+msgid "TRINIDAD AND TOBAGO"
+msgstr ""
+
+#: azh_forms.php:378
+msgid "TUNISIA"
+msgstr ""
+
+#: azh_forms.php:379
+msgid "TURKEY"
+msgstr ""
+
+#: azh_forms.php:380
+msgid "TURKMENISTAN"
+msgstr ""
+
+#: azh_forms.php:381
+msgid "TUVALU"
+msgstr ""
+
+#: azh_forms.php:382
+msgid "UGANDA"
+msgstr ""
+
+#: azh_forms.php:383
+msgid "UKRAINE"
+msgstr ""
+
+#: azh_forms.php:384
+msgid "UNITED ARAB EMIRATES"
+msgstr ""
+
+#: azh_forms.php:385
+msgid "UNITED KINGDOM"
+msgstr ""
+
+#: azh_forms.php:386
+msgid "UNITED STATES"
+msgstr ""
+
+#: azh_forms.php:387
+msgid "URUGUAY"
+msgstr ""
+
+#: azh_forms.php:388
+msgid "UZBEKISTAN"
+msgstr ""
+
+#: azh_forms.php:389
+msgid "VANUATU"
+msgstr ""
+
+#: azh_forms.php:390
+msgid "VATICAN CITY"
+msgstr ""
+
+#: azh_forms.php:391
+msgid "VENEZUELA"
+msgstr ""
+
+#: azh_forms.php:392
+msgid "VIRGIN ISLANDS, BRITISH"
+msgstr ""
+
+#: azh_forms.php:393
+msgid "VIRGIN ISLANDS, U.S."
+msgstr ""
+
+#: azh_forms.php:394
+msgid "VIETNAM"
+msgstr ""
+
+#: azh_forms.php:395
+msgid "YEMEN"
+msgstr ""
+
+#: azh_forms.php:396
+msgid "ZAMBIA"
+msgstr ""
+
+#: azh_forms.php:397
+msgid "ZIMBABWE"
+msgstr ""
+
+#: azh_forms.php:405
+msgid "Alabama"
+msgstr ""
+
+#: azh_forms.php:406
+msgid "Alaska"
+msgstr ""
+
+#: azh_forms.php:407
+msgid "Arizona"
+msgstr ""
+
+#: azh_forms.php:408
+msgid "Arkansas"
+msgstr ""
+
+#: azh_forms.php:409
+msgid "California"
+msgstr ""
+
+#: azh_forms.php:410
+msgid "Colorado"
+msgstr ""
+
+#: azh_forms.php:411
+msgid "Connecticut"
+msgstr ""
+
+#: azh_forms.php:412
+msgid "Delaware"
+msgstr ""
+
+#: azh_forms.php:413
+msgid "District of Columbia"
+msgstr ""
+
+#: azh_forms.php:414
+msgid "Florida"
+msgstr ""
+
+#: azh_forms.php:415
+msgctxt "US State"
+msgid "Georgia"
+msgstr ""
+
+#: azh_forms.php:416
+msgid "Hawaii"
+msgstr ""
+
+#: azh_forms.php:417
+msgid "Idaho"
+msgstr ""
+
+#: azh_forms.php:418
+msgid "Illinois"
+msgstr ""
+
+#: azh_forms.php:419
+msgid "Indiana"
+msgstr ""
+
+#: azh_forms.php:420
+msgid "Iowa"
+msgstr ""
+
+#: azh_forms.php:421
+msgid "Kansas"
+msgstr ""
+
+#: azh_forms.php:422
+msgid "Kentucky"
+msgstr ""
+
+#: azh_forms.php:423
+msgid "Louisiana"
+msgstr ""
+
+#: azh_forms.php:424
+msgid "Maine"
+msgstr ""
+
+#: azh_forms.php:425
+msgid "Maryland"
+msgstr ""
+
+#: azh_forms.php:426
+msgid "Massachusetts"
+msgstr ""
+
+#: azh_forms.php:427
+msgid "Michigan"
+msgstr ""
+
+#: azh_forms.php:428
+msgid "Minnesota"
+msgstr ""
+
+#: azh_forms.php:429
+msgid "Mississippi"
+msgstr ""
+
+#: azh_forms.php:430
+msgid "Missouri"
+msgstr ""
+
+#: azh_forms.php:431
+msgid "Montana"
+msgstr ""
+
+#: azh_forms.php:432
+msgid "Nebraska"
+msgstr ""
+
+#: azh_forms.php:433
+msgid "Nevada"
+msgstr ""
+
+#: azh_forms.php:434
+msgid "New Hampshire"
+msgstr ""
+
+#: azh_forms.php:435
+msgid "New Jersey"
+msgstr ""
+
+#: azh_forms.php:436
+msgid "New Mexico"
+msgstr ""
+
+#: azh_forms.php:437
+msgid "New York"
+msgstr ""
+
+#: azh_forms.php:438
+msgid "North Carolina"
+msgstr ""
+
+#: azh_forms.php:439
+msgid "North Dakota"
+msgstr ""
+
+#: azh_forms.php:440
+msgid "Ohio"
+msgstr ""
+
+#: azh_forms.php:441
+msgid "Oklahoma"
+msgstr ""
+
+#: azh_forms.php:442
+msgid "Oregon"
+msgstr ""
+
+#: azh_forms.php:443
+msgid "Pennsylvania"
+msgstr ""
+
+#: azh_forms.php:444
+msgid "Rhode Island"
+msgstr ""
+
+#: azh_forms.php:445
+msgid "South Carolina"
+msgstr ""
+
+#: azh_forms.php:446
+msgid "South Dakota"
+msgstr ""
+
+#: azh_forms.php:447
+msgid "Tennessee"
+msgstr ""
+
+#: azh_forms.php:448
+msgid "Texas"
+msgstr ""
+
+#: azh_forms.php:449
+msgid "Utah"
+msgstr ""
+
+#: azh_forms.php:450
+msgid "Vermont"
+msgstr ""
+
+#: azh_forms.php:451
+msgid "Virginia"
+msgstr ""
+
+#: azh_forms.php:452
+msgid "Washington"
+msgstr ""
+
+#: azh_forms.php:453
+msgid "West Virginia"
+msgstr ""
+
+#: azh_forms.php:454
+msgid "Wisconsin"
+msgstr ""
+
+#: azh_forms.php:455
+msgid "Wyoming"
+msgstr ""
+
+#: azh_forms.php:456
+msgid "Armed Forces Americas"
+msgstr ""
+
+#: azh_forms.php:457
+msgid "Armed Forces Europe"
+msgstr ""
+
+#: azh_forms.php:458
+msgid "Armed Forces Pacific"
+msgstr ""
+
+#. Field ID
+#: integrations/paypal.php:83
+msgid "Mode"
+msgstr "Режим"
+
+#: azh_forms.php:37
+msgid ""
+"please install <a href=\"https://wordpress.org/plugins/page-builder-by-"
+"azexo/\">Page builder by AZEXO</a> plugin."
+msgstr ""
+"пожалуйста установите <a href=\"https://wordpress.org/plugins/page-builder-"
+"by-azexo/\">Page builder by AZEXO</a> плагин."
+
+#: azh_forms.php:37
+msgid "Dismiss this notice."
+msgstr "Закрыть это уведомление."
+
+#: azh_forms.php:80
+msgid "Show if all"
+msgstr "Показать если все"
+
+#: azh_forms.php:81
+msgid "Show if any"
+msgstr "Показать если любой"
+
+#: azh_forms.php:82
+msgid "Hide if all"
+msgstr "Скрыть если все"
+
+#: azh_forms.php:83
+msgid "Hide if any"
+msgstr "Скрыть если любой"
+
+#: azh_forms.php:84 azh_forms.php:97
+msgid "Next"
+msgstr "Следующий"
+
+#: azh_forms.php:106 azh_forms.php:107
+msgid "Submission"
+msgstr "Заявка"
+
+#: azh_forms.php:108
+msgid "Add Submission"
+msgstr "Добавить заявку"
+
+#: azh_forms.php:109
+msgid "Add New Submission"
+msgstr "Добавить новую заявку"
+
+#: azh_forms.php:110
+msgid "Edit Submission"
+msgstr "Редактировать заявку"
+
+#: azh_forms.php:111
+msgid "New Submission"
+msgstr "Новая заявка"
+
+#: azh_forms.php:112
+msgid "View Submission"
+msgstr "Просмотр заявки"
+
+#: azh_forms.php:113
+msgid "Search Submissions"
+msgstr "Поиск заявок"
+
+#: azh_forms.php:114
+msgid "No Submission found"
+msgstr "Заявок не найдено"
+
+#: azh_forms.php:115
+msgid "No Submission found in Trash"
+msgstr "В корзине заявок не найдено"
+
+#: azh_forms.php:116
+msgid "Parent Submission:"
+msgstr "Родительская заявка:"
+
+#: azh_forms.php:117
+msgid "AZH Submissions"
+msgstr "AZH Заявки"
+
+#. Field ID
+#: settings.php:21
+msgid "Thousands delimiter"
+msgstr "Разделитель тысяч"
+
+#. Field ID
+#: settings.php:33
+msgid "Decimal delimiter"
+msgstr "Разделитель дроби"
+
+#. Field ID
+#: settings.php:44
+msgid "Currency symbol"
+msgstr "Символ валюты"
+
+#. Field ID
+#: settings.php:55
+msgid "Money format"
+msgstr "Денежный формат"
+
+#. Field ID
+#: settings.php:66
+msgid "Float format"
+msgstr "Формат числа"
+
+#: integrations/elementor-form.php:83 integrations/elementor-form.php:165
+msgid ""
+"Please install <a href=\"https://wordpress.org/plugins/page-builder-by-"
+"azexo/\">Page builder by AZEXO</a> plugin."
+msgstr ""
+"Пожалуйста установите <a href=\"https://wordpress.org/plugins/page-builder-"
+"by-azexo/\">Page builder by AZEXO</a> плагин."
+
+#: integrations/paypal.php:20 integrations/paypal.php:28
+msgid "AZEXO HTML PayPal Settings"
+msgstr "AZEXO HTML PayPal Настройки"
+
+#. Section ID
+#: integrations/paypal.php:20 integrations/paypal.php:51
+msgid "PayPal Settings"
+msgstr "PayPal Настройки"
+
+#. Field ID
+#: integrations/paypal.php:58
+msgid "PayPal Email"
+msgstr "PayPal Email"
+
+#. Field ID
+#: integrations/paypal.php:70
+msgid "Currency code"
+msgstr "Код валюты"
+
+#: integrations/paypal.php:91
+msgid "Production"
+msgstr "Производственный"
+
+#: integrations/paypal.php:92
+msgid "Sandbox"
+msgstr "Тестовый"
+
+#. Field ID
+#: integrations/paypal.php:98
+msgid "Page style"
+msgstr "Стиль страницы"
+
+#. Field ID
+#: integrations/paypal.php:109
+msgid "Continue button text"
+msgstr "Текст кнопки продолжения"
+
+#. Field ID
+#: integrations/paypal.php:120
+msgid "Cancel URL"
+msgstr "URL отмены"
+
+#: integrations/paypal.php:139
+msgid "Disable note"
+msgstr "Отключить коментарий"
+
+#: integrations/paypal.php:140
+msgid "Disable shipping"
+msgstr "Отключить доставку"
+
+#: integrations/paypal.php:153
+msgid "Paypal"
+msgstr "Paypal"
+
+#: integrations/paypal.php:228
+msgid "Click here to continue"
+msgstr "Клик здесь для продолжения"
+
+#: integrations/paypal.php:429
+msgid "Reversal of an adjustment"
+msgstr "Сторнирование корректировки"
+
+#: integrations/paypal.php:431
+msgid ""
+"A reversal has occurred on this transaction due to a complaint about the "
+"transaction from your customer."
+msgstr ""
+"Отмена произошла в результате этой транзакции из-за жалобы на транзакцию у "
+"вашего клиента."
+
+#: integrations/paypal.php:434
+msgid ""
+"A reversal has occurred on this transaction due to a chargeback by your "
+"customer."
+msgstr ""
+"В результате этой транзакции произошел разворот из-за возврата вашего "
+"клиента."
+
+#: integrations/paypal.php:437
+msgid "Reimbursement for a chargeback."
+msgstr "Возмещение платы за возврат."
+
+#: integrations/paypal.php:440
+msgid "Settlement of a chargeback."
+msgstr "Урегулирование возвратного платежа."
+
+#: integrations/paypal.php:443
+msgid ""
+"A reversal has occurred on this transaction due to your customer triggering "
+"a money-back guarantee."
+msgstr ""
+"При этой транзакции произошел разворот из-за того, что ваш клиент вызвал "
+"гарантию возврата денег."
+
+#: integrations/paypal.php:446
+msgid "Non-specified reason."
+msgstr "Неопределенная причина."
+
+#: integrations/paypal.php:449
+msgid ""
+"A reversal has occurred on this transaction because you have given the "
+"customer a refund."
+msgstr ""
+"В этой транзакции произошел разворот, потому что вы дали клиенту возмещение."
+
+#: integrations/paypal.php:452 integrations/paypal.php:489
+#: integrations/paypal.php:492
+msgid ""
+"Reason has not been specified. For more information, contact PayPal Customer "
+"Service."
+msgstr ""
+"Причина не указана. За дополнительной информацией обращайтесь в службу "
+"поддержки PayPal."
+
+#: integrations/paypal.php:459
+msgid ""
+"The payment is pending because your customer did not include a confirmed "
+"shipping address and your Payment Receiving Preferences is set to allow you "
+"to manually accept or deny each of these payments. To change your preference,"
+" go to the Preferences section of your Profile."
+msgstr ""
+"Платеж находится на рассмотрении, так как ваш клиент не указал "
+"подтвержденный адрес доставки, и ваши настройки приема платежей настроены "
+"так, чтобы вы могли вручную принять или отклонить каждый из этих платежей. "
+"Чтобы изменить свое предпочтение, перейдите в раздел «Настройки» вашего "
+"профиля."
+
+#: integrations/paypal.php:462
+msgid ""
+"You set the payment action to Authorization and have not yet captured funds."
+msgstr ""
+"Вы устанавливаете действие платежа для авторизации и еще не взяли средства."
+
+#: integrations/paypal.php:465
+msgid ""
+"The payment is pending because it was made by an eCheck that has not yet "
+"cleared."
+msgstr ""
+"Платеж находится на рассмотрении, поскольку он был сделан eCheck, который "
+"еще не очищен."
+
+#: integrations/paypal.php:468
+msgid ""
+"The payment is pending because you hold a non-U.S. account and do not have a "
+"withdrawal mechanism. You must manually accept or deny this payment from "
+"your Account Overview."
+msgstr ""
+"Платеж находится на рассмотрении, потому что у вас есть учетная запись, "
+"отличная от U.S., и у вас нет механизма отмены. Вы должны вручную принять "
+"или отклонить этот платеж из своей учетной записи."
+
+#: integrations/paypal.php:471
+msgid ""
+"You do not have a balance in the currency sent, and you do not have your "
+"Payment Receiving Preferences set to automatically convert and accept this "
+"payment. You must manually accept or deny this payment."
+msgstr ""
+"У вас нет баланса в отправленной валюте, и у вас нет настроек приема "
+"платежей, чтобы автоматически конвертировать и принимать этот платеж. Вы "
+"должны вручную принять или отклонить этот платеж."
+
+#: integrations/paypal.php:474
+msgid "You set the payment action to Order and have not yet captured funds."
+msgstr "Вы устанавливаете действие платежа для заказа и еще не взяли средства."
+
+#: integrations/paypal.php:477
+msgid "The payment is pending while it is being reviewed by PayPal for risk."
+msgstr ""
+"Платеж находится на рассмотрении, пока он рассматривается PayPal для риска."
+
+#: integrations/paypal.php:480
+msgid ""
+"The payment is pending because it was made to an email address that is not "
+"yet registered or confirmed."
+msgstr ""
+"Платеж находится на рассмотрении, поскольку он был отправлен на адрес "
+"электронной почты, который еще не зарегистрирован или не подтвержден."
+
+#: integrations/paypal.php:483
+msgid ""
+"The payment is pending because it was made via credit card and you must "
+"upgrade your account to Business or Premier status in order to receive the "
+"funds. upgrade can also mean that you have reached the monthly limit for "
+"transactions on your account."
+msgstr ""
+"Платеж находится на рассмотрении, потому что он был сделан с помощью "
+"кредитной карты, и вы должны обновить свою учетную запись до статуса "
+"«Бизнес» или «Премьер», чтобы получить средства. обновление также может "
+"означать, что вы достигли месячного лимита для транзакций в своем аккаунте."
+
+#: integrations/paypal.php:486
+msgid ""
+"The payment is pending because you are not yet verified. You must verify "
+"your account before you can accept this payment."
+msgstr ""
+"Платеж находится на рассмотрении, потому что вы еще не подтверждены. Вы "
+"должны подтвердить свою учетную запись, прежде чем сможете принять этот "
+"платеж."
+
+#: integrations/paypal.php:514
+#, php-format
+msgid "Payment has been reversed. Reason: %s"
+msgstr "Оплата была отменена. Причина:% s"
+
+#: integrations/paypal.php:519
+msgid ""
+"Payment reversal has been canceled and the funds have been transferred to "
+"your account."
+msgstr "Отмена платежа отменена, и средства были переведены на ваш счет."
+
+#: integrations/paypal.php:525
+#, php-format
+msgid "Payment is pending. Reason: %s"
+msgstr "Платеж задержан. Причина: %s"
+
+#. Name of the plugin
+msgid "Cost Calculator by AZEXO"
+msgstr "Калькулятор стоимости от AZEXO"
+
+#. Description of the plugin
+msgid "Payment Forms Builder for WordPress"
+msgstr "Билдер платежных форм для WordPress"
+
+#. Author of the plugin
+msgid "azexo"
+msgstr "azexo"
+
+#. Author URI of the plugin
+msgid "http://azexo.com"
+msgstr "http://azexo.com"

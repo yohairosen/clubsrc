@@ -1,0 +1,7 @@
+{
+    "thousands-delimiter": ",",
+    "decimal-delimiter": ".",
+    "currency-symbol": "$",
+    "money-format": "$0,0.00",
+    "float-format": "0,0.00"
+}

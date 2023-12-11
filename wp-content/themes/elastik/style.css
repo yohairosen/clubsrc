@@ -1,0 +1,110 @@
+/*
+Theme Name: Elastik
+Theme URI: http://www.azexo.com/elastic
+Version: 1.27.6
+Author: AZEXO
+Author URI: http://www.azexo.com
+Text Domain: elastik
+Tags: one-column, two-columns, left-sidebar, e-commerce, right-sidebar, custom-colors, custom-menu, editor-style, featured-images, full-width-template, microformats, post-formats, theme-options, threaded-comments, translation-ready, blog
+Description: Website Builder for WordPress
+License: GNU General Public License version 3.0
+License URI: http://www.gnu.org/licenses/gpl-3.0.html
+*/
+
+
+/*------------------------------------------------------------------
+
+CONTENTS
+All less files compiled automatically via WP Less library
+
+1. less/elastik/variables.less - less variables
+2. less/elastik/general.less - main layout
+3. less/elastik/typography.less - typography and base HTML/WP tags
+4. less/elastik/comments.less - WP comments
+5. less/elastik/post.less - WP post
+6. less/elastik/header.less - WP header
+7. less/elastik/menu.less - WP site menu
+8. less/elastik/pagination.less - WP pagination
+9. less/elastik/sidebar.less - WP sidebars
+10. less/elastik/widgets.less - WP widgets
+11. less/elastik/archive.less - WP archive page title
+12. less/elastik/templates.less - various post templates
+13. less/elastik/helpers.less - reusable classes
+14. less/elastik/visual-composer.less - visual composer shortcodes
+15. less/elastik/like.less - post like feature
+16. less/elastik/content.less - styles to use it inside post content
+17. less/elastik/woo-cart.less - WooCommerce cart page
+18. less/elastik/woo-checkout.less - WooCommerce checkout page
+19. less/elastik/woocommerce.less - WooCommerce general styles
+20. less/elastik/woo-product.less - WooCommerce single product page
+21. less/elastik/woo-reviews.less - WooCommerce reviews
+22. less/elastik/woo-templates.less - WooCommerce product templates
+23. less/elastik/woo-widgets.less - WooCommerce widgets
+
+-------------------------------------------------------------------*/
+
+.wp-caption { 
+    width: auto;
+}
+
+.wp-caption .wp-caption-text { 
+    font-weight: 600;
+}
+
+.wp-caption img { 
+    max-width: 100%;
+    height: auto;
+}
+
+.gallery-caption { 
+    font-weight: 600;
+}
+
+.bypostauthor {
+    font-weight: 600;
+}
+
+.sticky .entry-data .entry-header .entry-title a {
+    color: #6278df;
+}
+
+.alignleft {
+    float: left;
+}
+
+.alignright {
+    float: right;
+}
+
+.aligncenter {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.screen-reader-text {
+	clip: rect(1px, 1px, 1px, 1px);
+	position: absolute !important;
+	height: 1px;
+	width: 1px;
+	overflow: hidden;
+}
+.screen-reader-text:focus {
+	background-color: #f1f1f1;
+	border-radius: 3px;
+	box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+	clip: auto !important;
+	color: #21759b;
+	display: block;
+	font-size: 14px;
+	font-size: 0.875rem;
+	font-weight: bold;
+	height: auto;
+	left: 5px;
+	line-height: normal;
+	padding: 15px 23px 14px;
+	text-decoration: none;
+	top: 5px;
+	width: auto;
+	z-index: 100000;
+}

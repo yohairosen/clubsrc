@@ -1,0 +1,232 @@
+/*
+
+    The following CSS codes are created by the YellowPencil plugin.
+    https://yellowpencil.waspthemes.com/
+
+
+    T A B L E   O F   C O N T E N T S
+    ........................................................................
+
+    01. "SaaS 4" Page
+
+*/
+
+
+
+/*-----------------------------------------------*/
+/*  "SaaS 4" Page                                */
+/*-----------------------------------------------*/
+body.page-id-786 .azen-elastic-feature-4 .step{
+	text-align: center!important;
+}
+
+body.page-id-786 .azen-elastic-feature-4 .azen-general .step .step-digit{
+	display: inline-block!important;
+	border-radius: 50%!important;
+	width: 36px!important;
+	height: 36px!important;
+	padding: 8px!important;
+	background: #fff!important;
+	border: 1px solid #707f92!important;
+	text-align: center!important;
+	font: 32px Arial, sans-serif!important;
+}
+
+body.page-id-786 .azen-elastic-feature-4 .azen-general .step{
+	margin-bottom:38px !important;
+}
+
+body.page-id-786 .az-splitted-section .az-text span{
+	color:#707f92;
+}
+
+body.page-id-786 .azen-elastic-testimonials div .azen-image{
+	background-size: contain!important;
+	width:80px !important;
+	height:80px !important;
+	margin-right: 0!important;
+	margin-left: 10px!important;
+	margin-top: 21px!important;
+}
+
+body.page-id-786 .azen-elastic-testimonials div .clubsrc-profile-container{
+	background-color:#2fb5de !important;
+	border-radius: 100%!important;
+	height: 100px!important;
+	width: 100px!important;
+	display: inline-block!important;
+	-ms-flex-negative: 0!important;	flex-shrink: 0!important;
+	margin-right: 18px!important;
+}
+
+body.page-id-786 .az-container .azen-elastic-testimonials div:nth-child(2) .azen-image{
+	background-image:url("http://clubsrc.com/wp-content/uploads/2021/12/Asset-22@2x.png") !important;
+}
+
+body.page-id-786 .az-container div .azen-elastic-border-color .azh-row .az-elements-list div .azen .azen-elastic-testimonials div:nth-child(3) .azen-elastic-testimonial-text .azen-elastic-author .clubsrc-profile-container .azen-image{
+	background-image:url("http://clubsrc.com/wp-content/uploads/2021/12/Asset-11@2x.png") !important;
+}
+
+body.page-id-786 .azen-elastic-testimonials div a{
+	margin-top:10px !important;
+}
+
+body.page-id-786 .azen-elastic-button a .azen-image{
+	position:absolute !important;
+	left:-10px !important;
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+	width:50px !important;
+	height:50px !important;
+	background-image:url("http://clubsrc.com/wp-content/uploads/2021/12/6723BCE1-040C-411A-A694-BA5C474859C7.jpeg") !important;
+	top:-18px !important;
+}
+
+body.page-id-786 .azen-elastic-feature-4 .azen-general .azen-title{
+	font-style:normal;
+	font-weight:300 !important;
+	color:#717794 !important;
+}
+
+body.page-id-786 .azen-elastic-feature-2 .azen-general .azen-text{
+	color:#717794;
+}
+
+body.page-id-786 .azen-background-inverted > .azh-row > .az-elements-list > div > .az-text{
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-786 .azen-elastic-feature-2 .azen-icon .az-icon{
+	color:#6278df !important;
+}
+
+body.page-id-786 .az-container .azen-element:nth-child(3) .step-digit{
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+	border-width: 3px!important;
+}
+
+body.page-id-786 .az-container .azen-element:nth-child(2) .step-digit{
+	color:#e91e63 !important;
+	border-color:#f5bdaa;
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+	border-width: 3px!important;
+}
+
+body.page-id-786 .az-container .azen-element:nth-child(1) .step-digit{
+	-webkit-transform:translatex(0px) translatey(0px) !important;	-ms-transform:translatex(0px) translatey(0px) !important;	transform:translatex(0px) translatey(0px) !important;
+	border-width: 3px!important;
+}
+
+body.page-id-786 .azen-elastic-feature-2 .ti-thought span{
+	color:#4caf50 !important;
+}
+
+body.page-id-786 .azen-elastic-feature-4 .azen-icon .ti-star{
+	color:#ffc107 !important;
+}
+
+body.page-id-786 .azen-elastic-feature-4 .azen-icon .ti-search{
+	color:#f5bdaa !important;
+}
+
+body.page-id-786 .azen-elastic-feature-4 .azen-icon .ti-id-badge{
+	color:#91d0fa !important;
+}
+
+body.page-id-786 .az-container .azen-element:nth-child(3) .az-icon{
+	color:#ecd078 !important;
+}
+
+body.page-id-786 .az-container div .azen-elastic{
+	background-color:rgb(35,35,35);
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+	padding-top:80px !important;
+	padding-bottom:0px !important;
+}
+
+body.page-id-786 .az-container div .azen-elastic a{
+	color:#ffffff!important;
+}
+
+body.page-id-786 .az-container div .azen-elastic .az-text{
+	color:#FFFFFF!important;
+}
+
+body.page-id-786 .azen-testimonial .az-contenteditable{
+	font-size:18px!important;
+}
+
+body.page-id-786 .az-container div .azen-elastic-background-inverted{
+	background-color:#232323 !important;
+}
+
+body.page-id-786 .azen-elastic-background-inverted .azh-row .az-elements-list div .az-text{
+	color:#ffffff;
+}
+
+body.page-id-786 .az-container div .azen-elastic-social-links{
+	color:#ffffff !important;
+}
+
+body.page-id-786 .azen-elastic-background-inverted .azh-row .az-elements-list div .azen *{
+	color:#ffffff;
+}
+
+body.page-id-786 .azen-elastic-border-body-alpha-color .az-splitted-section .az-background-column{
+	background-size:130%;
+	z-index: 10000;
+	background-position-x:30px !important;
+	background-position-y:100%;
+	-webkit-transform:translatex(0px) translatey(0px);	-ms-transform:translatex(0px) translatey(0px);	transform:translatex(0px) translatey(0px);
+}
+
+body.page-id-786 .az-container div .az-background-column{
+	background-image:url("http://clubsrc.com/wp-content/uploads/2021/12/699FE85C-5FCA-405E-B08D-31A99ACE760A.png") !important;
+}
+
+body.page-id-786 .az-splitted-section a .az-contenteditable:nth-child(3){
+
+	display:none!important;
+}
+
+body.page-id-786 .azen-elastic-horizontal-elements{
+	padding:20px 0!important;
+	-webkit-box-pack: flex-start!important;	-ms-flex-pack: flex-start!important;	justify-content: flex-start!important;
+}
+
+body.page-id-786 .azen-elastic-horizontal-elements > div{
+	display:inline-block!important;
+}
+
+body.page-id-786 .az-container div .azen-background-inverted .azh-row .az-elements-list div .azen .azen-elastic-feature-4 .azen-general .azen-element .step span{
+	color:#f5bdaa !important;
+	border-color:#f5bdaa !important;
+}
+
+body.page-id-786 .az-container div .azen-background-inverted .azh-row .az-elements-list div .azen .azen-elastic-feature-4 .azen-general .azen-element:nth-child(1) .step .step-digit{
+	color:#91d0fa !important;
+	border-color:#91d0fa !important;
+}
+
+body.page-id-786 .az-container div .azen-background-inverted .azh-row .az-elements-list div .azen .azen-elastic-feature-4 .azen-general .azen-element:nth-child(3) .step .step-digit{
+	color:#ecd078 !important;
+	border-color:#ecd078 !important;
+}
+
+@media (max-width:767px){
+
+	body.page-id-786 .az-container div:nth-child(9) .azh-row{
+	-webkit-box-flex:1;	-ms-flex:1;	flex:1;
+	-webkit-box-orient: column-reverse;	-webkit-box-direction: column-reverse;	-ms-flex-direction: column-reverse;	flex-direction: column-reverse;
+	}
+
+}
+
+
+
+@media (min-width:1400px){
+
+	body.page-id-786 .az-container{
+	max-width: 1070px!important;
+	}
+
+}

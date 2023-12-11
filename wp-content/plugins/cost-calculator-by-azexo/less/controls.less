@@ -1,0 +1,161 @@
+[data-element="forms/radio-buttons.htm"] {
+    input[type="radio"] {
+        position: absolute;
+        opacity: 0;
+        + span {
+            user-select: none;
+            cursor: pointer;
+            display: inline-block;
+            position: relative;      
+            line-height: 1.5 !important;
+        }
+
+        + span::before {
+            content: "";
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            margin-right: 5px;
+            vertical-align: top;
+            background-color: white;
+            border: 1px solid lightgray;
+            border-radius: 100%;
+        }
+        &:checked  + span::after {
+            content: "";
+            color: @brand-color; 
+            position: absolute;
+            left: 7px;
+            top: 7px;
+            width: 6px;
+            height: 6px;
+            line-height: 1;
+            border-radius: 100%;
+            background-color: @brand-color;
+        }
+    }
+}
+
+[data-element="forms/checkboxes.htm"] { 
+    label {
+        display: block;
+    }
+    input[type="checkbox"] {
+        position: absolute;
+        opacity: 0;
+        &:checked  + span::after {
+            content: "✓";
+            color: @brand-color; 
+            position: absolute;
+            left: 2px;
+            top: 0px;
+            font-size: 20px;
+            width: 15px;
+            height: 15px;
+            line-height: 1;
+            text-align: center;
+        }
+
+        + span {
+            user-select: none;
+            cursor: pointer;
+            display: inline-block;
+            position: relative;      
+            line-height: 1.5;
+        }
+
+        + span::before {
+            content: "";
+            display: inline-block;
+            width: 18px;
+            height: 18px;
+            margin-right: 10px;
+            vertical-align: top;
+            background-color: white;
+            border: 1px solid lightgray;
+        }
+    }
+}
+
+
+[data-element="forms/number-range.htm"] {
+    input[type="range"] {
+        appearance: none;
+        -moz-appearance: none;
+        -webkit-appearance: none;
+        border: 0;
+        width: 100%;
+        padding: 0;
+        background: transparent;
+    }
+    input[type="range"] {
+        outline: none;
+    }
+    input[type="range"]::-webkit-slider-runnable-track {
+        width: 100%;
+        height: 2px;
+        cursor: pointer;
+        animate: 0.2s;
+        background: lightgray;
+        border-radius: 0px;
+    }
+    input[type="range"]::-webkit-slider-thumb {
+        height: 12px;
+        width: 12px;
+        border-radius: 50%;
+        background: @brand-color;
+        cursor: pointer;
+        border: none;
+        -webkit-appearance: none;
+        margin-top: -5px;
+    }
+    input[type="range"]::-moz-range-track {
+        width: 100%;
+        height: 2px;
+        cursor: pointer;
+        animate: 0.2s;
+        background: #333;
+        border-radius: 0px;
+    }
+    input[type="range"]::-moz-range-thumb {
+        border: none;
+        height: 12px;
+        width: 12px;
+        border-radius: 50%;
+        background: @brand-color;
+        cursor: pointer;
+    }
+    input[type="range"]::-ms-track {
+        width: 100%;
+        height: 2px;
+        cursor: pointer;
+        animate: 0.2s;
+        background: transparent;
+        border-color: transparent;
+        color: transparent;
+    }
+    input[type="range"]::-ms-fill-lower {
+        background: lightgray;
+        border: none;
+        border-radius: 0px;
+    }
+    input[type="range"]::-ms-fill-upper {
+        background: lightgray;
+        border-radius: 0px;
+    }
+    input[type="range"]::-ms-thumb {
+        border: 2px solid lightgray;
+        height: 14px;
+        width: 14px;
+        border-radius: 50%;
+        background: @brand-color;
+        cursor: pointer;
+    }
+    input[type="range"]:focus::-ms-fill-lower {
+        background: #333;
+    }
+    input[type="range"]:focus::-ms-fill-upper {
+        background: #333;
+    }
+
+}

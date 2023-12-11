@@ -1,0 +1,51 @@
+@import "variables.less";
+
+#middle{
+    .archive-header, .page-header {
+        a {
+            color: @black-dark;
+        }
+        .archive-title, .page-title, .entry-title {
+            color: @white-lighter;
+            + .archive-subtitle, + .page-subtitle {
+                margin-top: 10px; 
+            }
+        }
+        .archive-subtitle, .page-subtitle {
+            color: @white-lighter;
+        }
+        .archive-meta {
+            display: none;
+        }
+    }
+}
+
+#main{
+    .archive-header, .page-header{
+        .archive-meta{
+            color: @black;
+            margin: 0;
+            line-height: 24px;
+            letter-spacing: .2px;
+            margin-top: -43px;
+            margin-bottom: 40px;
+        }
+        .archive-title, .page-title, .entry-title {
+            color: @heading-color;
+            margin: 0;
+            font-weight: 600;
+            margin-bottom: 51px;
+            + .archive-subtitle, + .page-subtitle{
+                font-size: @font-size-large + 2px;
+                color: @body-color;
+                margin: 0;
+                line-height: 24px;
+                font-weight: 600;
+                letter-spacing: .2px;
+                margin-top: -40px;
+                margin-bottom: 40px;
+
+            }
+        }
+    }
+}

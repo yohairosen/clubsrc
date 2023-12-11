@@ -1,0 +1,71 @@
+@import "variables.less";
+
+.loop-pagination() {
+    .vendor(display, flex);
+    .vendor(align-items, center);
+    a:hover {
+        color: @brand-color;
+    }
+    span.current, span.dots, a, .page-numbers {
+        display: inline-block;
+        margin: 0;
+        text-align: center;
+        text-decoration: none;
+        letter-spacing: 0;
+        font-weight: 500;
+        width: 40px;
+        line-height: 40px;
+        font-size: @font-size-base - 1px;
+        color: @black-light;
+        border: 1px solid @white-dark;
+        background-color: transparent;
+        height: auto;
+        margin-right: 8px;
+        float: left;
+        transition: none;
+        span {
+            display: none;
+        }
+        &:hover{
+            color: @black-darker;
+            border-color: fade(@black-dark, 100%);
+            &.prev, &.next{
+                color: @black-darker;
+            }
+        }
+        &.current{
+            color: @white-lighter;
+            background-color: @black-dark;
+            border-color: @black-dark;
+        }
+        &.prev, &.next {         
+        }
+        &.prev {
+        }
+        &.next {
+        }
+        i {
+            .awes();
+            &.prev::before {
+                content: "\f104";
+            }
+            &.next::before {
+                content: "\f105";
+            }
+        }
+    }
+}
+
+nav.paging-navigation {
+    margin-top: 30px;
+    padding-left: 1px;
+    display: inline-block;
+    .loop-pagination {
+        .loop-pagination();
+        > *{
+            &:last-child{
+                margin-right: 0;
+            }
+        }
+    }
+}

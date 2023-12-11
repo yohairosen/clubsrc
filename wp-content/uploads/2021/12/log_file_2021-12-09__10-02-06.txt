@@ -1,0 +1,61 @@
+
+---Downloaded files---
+The import files for: Elastik were successfully downloaded!
+Initial max execution time = 3600
+Files info:
+Site URL = https://clubsrc.com
+Data file = /var/www/clubsrc/wp-content/themes/elastik 2/data/Elastik/content.xml
+Widget file = not defined!
+Customizer file = not defined!
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[ERROR] Failed to import "operational-software" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "operational-software" (Media)
+[ERROR] Failed to import "details-dots-1" (Media)
+[ERROR] Failed to import "img-redbull-6f4ab91bd0d6c2b9c356d9014e1e186a" (Media)
+[ERROR] Failed to import "img-dropbox-66d70d2c291ab747744a11de47c2248e" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "operational-software" (Media)
+[ERROR] Failed to import "details-dots-1" (Media)
+[ERROR] Failed to import "img-redbull-6f4ab91bd0d6c2b9c356d9014e1e186a" (Media)
+[ERROR] Failed to import "img-dropbox-66d70d2c291ab747744a11de47c2248e" (Media)
+[ERROR] Failed to import "undraw_organize_resume_utk5" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "operational-software" (Media)
+[ERROR] Failed to import "details-dots-1" (Media)
+[ERROR] Failed to import "img-redbull-6f4ab91bd0d6c2b9c356d9014e1e186a" (Media)
+[ERROR] Failed to import "img-dropbox-66d70d2c291ab747744a11de47c2248e" (Media)
+[ERROR] Failed to import "undraw_organize_resume_utk5" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "operational-software" (Media)
+[ERROR] Failed to import "details-dots-1" (Media)
+[ERROR] Failed to import "img-redbull-6f4ab91bd0d6c2b9c356d9014e1e186a" (Media)
+[ERROR] Failed to import "img-dropbox-66d70d2c291ab747744a11de47c2248e" (Media)
+[ERROR] Failed to import "undraw_organize_resume_utk5" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "operational-software" (Media)
+[ERROR] Failed to import "details-dots-1" (Media)
+[ERROR] Failed to import "img-redbull-6f4ab91bd0d6c2b9c356d9014e1e186a" (Media)
+[ERROR] Failed to import "img-dropbox-66d70d2c291ab747744a11de47c2248e" (Media)
+[ERROR] Failed to import "undraw_organize_resume_utk5" (Media)
+[ERROR] Failed to import "banner-shape" (Media)
+
